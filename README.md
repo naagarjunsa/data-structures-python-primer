@@ -28,6 +28,8 @@ Please go through the implementaion of the Data Structure and then go through th
 
     1.4. [Remove Duplicates in the List](https://www.github.com/naagarjunsa/data-structures-python-primer/singly-linked-list/remove-duplicates.py)
 
+    1.5. [Nth Last Node](https://www.github.com/naagarjunsa/data-structures-python-primer/singly-linked-list/nth-last-node.py)
+
 ## Contribute
 ---
 Please feel free to contribute to this project on any level. Here are the [guidelines](https://github.com/naagarjunsa/data-structures-python-primer/CONTRIBUTING.md) to contribute.
