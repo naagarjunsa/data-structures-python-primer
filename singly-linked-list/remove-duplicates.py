@@ -4,29 +4,17 @@ def remove_duplicates(llist):
 
     curr = llist.head
     data = dict()
-
-    while curr:
-        if curr.val not in data:
-            data[curr.val] = 0
-        else:
-            data[curr.val] += 1
-        curr = curr.next
-
-    curr = llist.head
     prev = None
 
     while curr:
-        if data[curr.val] > 0:
-            if prev:
-                prev.next = curr.next
-            else:
-                llist.head = curr.next
-            data[curr.val] -= 1
-            curr = curr.next
+        if curr.val in data:
+            prev.next = curr.next
+            curr = None
         else:
+            data[curr.val] = 1
             prev = curr
-            curr = curr.next
-    
+        curr = prev.next
+
     curr = llist.head
     while curr:
         print(curr.val, end="->")
@@ -41,7 +29,7 @@ if __name__ == "__main__":
     llist.append(3)
     llist.append(2)
     llist.append(1)
-    
+
     llist.print_list()
     remove_duplicates(llist)
 

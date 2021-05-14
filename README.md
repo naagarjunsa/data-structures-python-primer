@@ -22,8 +22,11 @@ Please go through the implementaion of the Data Structure and then go through th
 
     1.1. [Reverse Singly Linked Lists](https://www.github.com/naagarjunsa/data-structures-python-primer/singly-linked-list/reverse-linked-list.py)
 
-    1.2. [Swap Nodes in Singly Linked List](https://www.github.com/naagarjunsa/data-structures-python-primer/singly-linked-list/swap-nodes.py)
+    1.2. [Swap Nodes in Linked List](https://www.github.com/naagarjunsa/data-structures-python-primer/singly-linked-list/swap-nodes.py)
 
+    1.3. [Merge Two Sorted Lists](https://www.github.com/naagarjunsa/data-structures-python-primer/singly-linked-list/merge-sorted-lists.py)
+
+    1.4. [Remove Duplicates in the List](https://www.github.com/naagarjunsa/data-structures-python-primer/singly-linked-list/remove-duplicates.py)
 
 ## Contribute
 ---
