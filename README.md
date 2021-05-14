@@ -28,7 +28,16 @@ Please go through the implementaion of the Data Structure and then go through th
 
     1.4. [Remove Duplicates in the List](https://www.github.com/naagarjunsa/data-structures-python-primer/singly-linked-list/remove-duplicates.py)
 
-    1.5. [Nth Last Node](https://www.github.com/naagarjunsa/data-structures-python-primer/singly-linked-list/nth-last-node.py)
+    1.5. [Remove Duplicates Sorted](https://www.github.com/naagarjunsa/data-structures-python-primer/singly-linked-list/remove-duplicates-sorted.py)
+
+    1.6. [Remove Duplicates Sorted II](https://www.github.com/naagarjunsa/data-structures-python-primer/singly-linked-list/remove-duplicates-sorted-ii.py)
+     
+    1.7. [Nth Last Node](https://www.github.com/naagarjunsa/data-structures-python-primer/singly-linked-list/nth-last-node.py)
+
+    1.8. [Check if List is Palindrome](https://www.github.com/naagarjunsa/data-structures-python-primer/singly-linked-list/check-palindrome.py)
+
+    1.9. [Merge List In Between](https://www.github.com/naagarjunsa/data-structures-python-primer/singly-linked-list/merge-in-between-linked-list.py)
+
 
 ## Contribute
 ---
