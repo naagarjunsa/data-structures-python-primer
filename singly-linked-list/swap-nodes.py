@@ -29,14 +29,6 @@ def swap_nodes(llist, val_1, val_2):
         else:
             llist.head = curr_2
         
-        if prev_2:
-            prev_2.next = curr_1
-        else:
-            llist.head = curr_1
-        
-        curr_1.next, curr_2.next = curr_2.next, curr_1.next
-
-
 if __name__ == "__main__":
 
     llist = SinglyLinkedList()
@@ -45,5 +37,6 @@ if __name__ == "__main__":
         llist.append(i)
 
     llist.print_list()
+
     swap_nodes(llist, 3, 7)
     llist.print_list()

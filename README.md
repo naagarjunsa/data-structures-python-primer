@@ -38,6 +38,11 @@ Please go through the implementaion of the Data Structure and then go through th
 
     1.9. [Merge List In Between](https://www.github.com/naagarjunsa/data-structures-python-primer/singly-linked-list/merge-in-between-linked-list.py)
 
+    1.10. [Odd Even List](https://www.github.com/naagarjunsa/data-structures-python-primer/singly-linked-list/odd-even-list.py)
+
+    1.11. [Swap Nodes in Pairs](https://www.github.com/naagarjunsa/data-structures-python-primer/singly-linked-list/swap-nodes-in-pairs.py)
+
+    1.12. [Rotate List](https://www.github.com/naagarjunsa/data-structures-python-primer/singly-linked-list/rotate-list.py)
 
 ## Contribute
 ---
