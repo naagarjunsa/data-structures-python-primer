@@ -1,4 +1,4 @@
-class Node:
+class DLLNode:
 
     def __init__(self, val, next=None, prev=None):
         self.val = val
@@ -11,7 +11,7 @@ class DoublyLinkedList:
         self.head = None
     
     def append(self,val):
-        new_node = Node(val)
+        new_node = DLLNode(val)
         if self.head is None:
             self.head = new_node
         else:
@@ -23,7 +23,7 @@ class DoublyLinkedList:
             new_node.prev = curr
 
     def prepend(self, val):
-        new_node = Node(val)
+        new_node = DLLNode(val)
         if self.head is None:
             self.head = new_node
         else:
@@ -33,7 +33,7 @@ class DoublyLinkedList:
 
     def add_node_before(self, node, val):
 
-        new_node = Node(val)
+        new_node = DLLNode(val)
         new_node.next = node
         prev = node.prev
         node.prev = new_node
@@ -47,7 +47,7 @@ class DoublyLinkedList:
     
     def add_node_after(self, node, val):
         
-        new_node = Node(val)
+        new_node = DLLNode(val)
 
         new_node.prev = node
         nxt = node.next

@@ -18,7 +18,7 @@ Please go through the implementaion of the Data Structure and then go through th
 ## Contents
 ---
 
-1. [Singly Linked List](https://www.github.com/naagarjunsa/data-structures-python-primer/singly-linked-list/SinglyLinkedList.py)
+1. ### [Singly Linked List](https://www.github.com/naagarjunsa/data-structures-python-primer/singly-linked-list/SinglyLinkedList.py)
 
     -  [Reverse Singly Linked List](https://www.github.com/naagarjunsa/data-structures-python-primer/singly-linked-list/reverse-linked-list.py)
 
@@ -44,7 +44,20 @@ Please go through the implementaion of the Data Structure and then go through th
 
     - [Rotate List](https://www.github.com/naagarjunsa/data-structures-python-primer/singly-linked-list/rotate-list.py)
 
-2. [Doubly Linked List](https://www.github.com/naagarjunsa/data-structures-python-primer/doubly-linked-list/DoublyLinkedList.py)
+2. ### [Doubly Linked List](https://www.github.com/naagarjunsa/data-structures-python-primer/doubly-linked-list/DoublyLinkedList.py)
+
+3. ### [Stack](https://www.github.com/naagarjunsa/data-structures-python-primer/stack/stack.py)
+
+4. ### [Queue](https://www.github.com/naagarjunsa/data-structures-python-primer/queue/queue.py)
+
+5. ### [Binary Tree](https://www.github.com/naagarjunsa/data-structures-python-primer/binary-tree/binarytree.py)
+
+    - [Pre/Post/In Order Traversal](https://www.github.com/naagarjunsa/data-structures-python-primer/binary-tree/dfs-traversals.py)
+    - [Level Order Traversal](https://www.github.com/naagarjunsa/data-structures-python-primer/binary-tree/level-order-traversal.py)
+    - [Reverse Level Order Traversal](https://www.github.com/naagarjunsa/data-structures-python-primer/binary-tree/reverse-level-order-traversal.py)
+    - [Height of a Tree](https://www.github.com/naagarjunsa/data-structures-python-primer/binary-tree/binary-tree-height.py)
+    - [Size of a Tree](https://www.github.com/naagarjunsa/data-structures-python-primer/binary-tree/binary-tree-size.py)
+
 
 
 ## Contribute
