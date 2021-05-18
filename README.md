@@ -18,31 +18,34 @@ Please go through the implementaion of the Data Structure and then go through th
 ## Contents
 ---
 
-1. [Singly Linked Lists](https://www.github.com/naagarjunsa/data-structures-python-primer/singly-linked-list/SinglyLinkedList.py)
+1. [Singly Linked List](https://www.github.com/naagarjunsa/data-structures-python-primer/singly-linked-list/SinglyLinkedList.py)
 
-    1.1. [Reverse Singly Linked Lists](https://www.github.com/naagarjunsa/data-structures-python-primer/singly-linked-list/reverse-linked-list.py)
+    -  [Reverse Singly Linked List](https://www.github.com/naagarjunsa/data-structures-python-primer/singly-linked-list/reverse-linked-list.py)
 
-    1.2. [Swap Nodes in Linked List](https://www.github.com/naagarjunsa/data-structures-python-primer/singly-linked-list/swap-nodes.py)
+    -  [Swap Nodes in Linked List](https://www.github.com/naagarjunsa/data-structures-python-primer/singly-linked-list/swap-nodes.py)
 
-    1.3. [Merge Two Sorted Lists](https://www.github.com/naagarjunsa/data-structures-python-primer/singly-linked-list/merge-sorted-lists.py)
+    - [Merge Two Sorted Lists](https://www.github.com/naagarjunsa/data-structures-python-primer/singly-linked-list/merge-sorted-lists.py)
 
-    1.4. [Remove Duplicates in the List](https://www.github.com/naagarjunsa/data-structures-python-primer/singly-linked-list/remove-duplicates.py)
+    - [Remove Duplicates in the List](https://www.github.com/naagarjunsa/data-structures-python-primer/singly-linked-list/remove-duplicates.py)
 
-    1.5. [Remove Duplicates Sorted](https://www.github.com/naagarjunsa/data-structures-python-primer/singly-linked-list/remove-duplicates-sorted.py)
+    -  [Remove Duplicates Sorted](https://www.github.com/naagarjunsa/data-structures-python-primer/singly-linked-list/remove-duplicates-sorted.py)
 
-    1.6. [Remove Duplicates Sorted II](https://www.github.com/naagarjunsa/data-structures-python-primer/singly-linked-list/remove-duplicates-sorted-ii.py)
+    -  [Remove Duplicates Sorted II](https://www.github.com/naagarjunsa/data-structures-python-primer/singly-linked-list/remove-duplicates-sorted-ii.py)
      
-    1.7. [Nth Last Node](https://www.github.com/naagarjunsa/data-structures-python-primer/singly-linked-list/nth-last-node.py)
+    - [Nth Last Node](https://www.github.com/naagarjunsa/data-structures-python-primer/singly-linked-list/nth-last-node.py)
 
-    1.8. [Check if List is Palindrome](https://www.github.com/naagarjunsa/data-structures-python-primer/singly-linked-list/check-palindrome.py)
+    -  [Check if List is Palindrome](https://www.github.com/naagarjunsa/data-structures-python-primer/singly-linked-list/check-palindrome.py)
 
-    1.9. [Merge List In Between](https://www.github.com/naagarjunsa/data-structures-python-primer/singly-linked-list/merge-in-between-linked-list.py)
+    -  [Merge List In Between](https://www.github.com/naagarjunsa/data-structures-python-primer/singly-linked-list/merge-in-between-linked-list.py)
 
-    1.10. [Odd Even List](https://www.github.com/naagarjunsa/data-structures-python-primer/singly-linked-list/odd-even-list.py)
+    - [Odd Even List](https://www.github.com/naagarjunsa/data-structures-python-primer/singly-linked-list/odd-even-list.py)
 
-    1.11. [Swap Nodes in Pairs](https://www.github.com/naagarjunsa/data-structures-python-primer/singly-linked-list/swap-nodes-in-pairs.py)
+    - [Swap Nodes in Pairs](https://www.github.com/naagarjunsa/data-structures-python-primer/singly-linked-list/swap-nodes-in-pairs.py)
 
-    1.12. [Rotate List](https://www.github.com/naagarjunsa/data-structures-python-primer/singly-linked-list/rotate-list.py)
+    - [Rotate List](https://www.github.com/naagarjunsa/data-structures-python-primer/singly-linked-list/rotate-list.py)
+
+2. [Doubly Linked List](https://www.github.com/naagarjunsa/data-structures-python-primer/doubly-linked-list/DoublyLinkedList.py)
+
 
 ## Contribute
 ---
